@@ -27,6 +27,7 @@ class FeedbackService {
   /**
    * Add a new feedback item
    * @param {*} name The name of the user
+   * @param {*} email The email of the user
    * @param {*} title The title of the feedback message
    * @param {*} message The feedback message
    */
